@@ -2,6 +2,7 @@
 - [ ] SFO
 - [ ] San Jose
 - [ ] Oakloand
+
 ### Fun Things to do
 - [ ] Hiking
 - [ ] Swimming
