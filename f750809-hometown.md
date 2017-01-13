@@ -9,5 +9,11 @@
 - [ ] Hiking
 - [ ] Swimming
 - [ ] Dinning out
+- For history site
+  - San Jose
+  - Fremont
+- Tryon Palace
+- Biltmore Estate
+
 
 
