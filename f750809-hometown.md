@@ -1,3 +1,4 @@
+
 ### Great Places to eat
 - [ ] SFO
 - [ ] San Jose
@@ -8,3 +9,5 @@
 - [ ] Hiking
 - [ ] Swimming
 - [ ] Dinning out
+
+
