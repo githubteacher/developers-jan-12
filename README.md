@@ -5,6 +5,11 @@
  - Cynthia Rich (@crichID)
  - Matt Desmond (@beardofedu)
 
+- February 1-2, 2017
+- Facilitators:
+  - Matt Desmond (@beardofedu)
+  - Briana Swift (@brianamarie)
+
 ## Get Help!
 
 [![Join the chat at https://gitter.im/developers-jan-12/Lobby](https://badges.gitter.im/developers-jan-12/Lobby.svg)](https://gitter.im/developers-jan-12/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
